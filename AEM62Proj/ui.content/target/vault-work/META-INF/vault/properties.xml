@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>AEM62App - UI content</comment>
+<entry key="createdBy">satyaroy</entry>
+<entry key="name">AEM62Proj.ui.content</entry>
+<entry key="created">2018-02-06T15:49:22.205+0530</entry>
+<entry key="groupId">AEM62App</entry>
+<entry key="version">1.0-SNAPSHOT</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="group">AEM62App</entry>
+<entry key="description">UI content package for AEM62App</entry>
+<entry key="artifactId">AEM62Proj.ui.content</entry>
+<entry key="path">/etc/packages/AEM62App/AEM62Proj.ui.content.zip</entry>
+</properties>
